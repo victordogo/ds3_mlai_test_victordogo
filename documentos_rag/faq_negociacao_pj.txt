@@ -1,0 +1,39 @@
+FAQ DE NEGOCIAÇÃO PJ
+Código: FAQ-PJ-009 | Versão: 2.1 | Vigência fictícia: 01/07/2026
+
+1. O score garante que o cliente pagará?
+Não. O score representa uma probabilidade estimada com base em dados históricos e pode apresentar erro, drift ou má calibração. Deve ser usado junto com contexto, regras e julgamento profissional.
+
+2. O agente pode aprovar uma renegociação?
+Não. O agente pode organizar informações, recuperar regras e sugerir próximos passos. A aprovação segue as alçadas e controles aplicáveis.
+
+3. Quando oferecer parcelamento?
+Em geral, a partir de 16 dias de atraso, quando houver sinal de dificuldade temporária e capacidade estimada de pagamento. Entre 16 e 30 dias, prefira ajuste de vencimento ou parcelamento curto. Acima de 30 dias, avalie as opções previstas nos critérios de oferta.
+
+4. Como tratar uma promessa de pagamento?
+Registre valor e data prometida. Se a promessa estiver válida, evite abordagem repetitiva e faça acompanhamento próximo ao vencimento. Se estiver vencida, confirme a causa antes de formular nova oferta.
+
+5. O que fazer quando o cliente contesta o débito?
+Interromper a negociação daquela obrigação, registrar a contestação e encaminhar para análise especializada. Não pressionar por pagamento até a validação.
+
+6. O que fazer em caso de recuperação judicial informada?
+Encaminhar imediatamente à equipe especializada. Não apresentar oferta automatizada nem afirmar efeitos jurídicos.
+
+7. Podemos usar WhatsApp?
+Sim, quando o canal estiver consentido e validado. Não incluir informação financeira sensível na prévia da mensagem. Confirme a identidade antes de detalhar o contrato.
+
+8. O cliente pediu para não receber ligações. Como proceder?
+Respeitar a preferência registrada e utilizar apenas canais autorizados. Se nenhum canal estiver disponível, encaminhar para revisão operacional.
+
+9. Como agir quando há três contatos sem sucesso?
+Verifique canal e horário, aplique pausa mínima de 48 horas e considere canal alternativo consentido. Evite repetição excessiva.
+
+10. Pode haver desconto sobre o principal?
+Somente por fluxo de exceção e aprovação de comitê. O baseline e o agente não estão autorizados a oferecer esse desconto.
+
+11. Qual informação deve acompanhar uma recomendação?
+Probabilidade e versão do score, principais fatores, dados relevantes, resumo das interações, regra aplicável, fonte documental, restrições e necessidade de aprovação.
+
+12. O que fazer quando documentos divergem?
+Não escolher silenciosamente uma regra. Sinalize a divergência, informe versões e datas e encaminhe ao proprietário da política. A regra mais restritiva pode ser usada como fallback provisório, sem criar autorização.
+

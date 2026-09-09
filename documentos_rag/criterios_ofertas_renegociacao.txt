@@ -1,0 +1,45 @@
+CRITÉRIOS PARA OFERTAS DE RENEGOCIAÇÃO PJ
+Código: COR-PJ-014 | Versão: 3.5 | Vigência fictícia: 01/07/2026
+
+1. PREMISSAS
+As condições abaixo são fictícias. A elegibilidade deve ser calculada com dados atualizados. Recomendação não equivale a aprovação e nenhuma condição deve ser prometida antes da validação no motor de ofertas.
+
+2. AJUSTE DE VENCIMENTO
+Elegível para atraso entre 1 e 30 dias, no máximo uma ocorrência nos últimos 12 meses e ausência de promessa vencida. Não há desconto de principal. Requer confirmação do fluxo de caixa esperado.
+
+3. PARCELAMENTO PADRONIZADO
+3.1. Atraso entre 16 e 90 dias.
+3.2. Saldo devedor até R$ 500.000.
+3.3. Entrada mínima de 10% do saldo consolidado.
+3.4. Prazo máximo de 24 meses.
+3.5. Cliente com até duas renegociações nos últimos 12 meses.
+3.6. Acima de R$ 250.000 ou acima de 60 dias de atraso, exigir validação de especialista.
+
+4. OFERTA CUSTOMIZADA
+Pode ser analisada quando houver evidência de sazonalidade, recebível futuro, queda temporária de faturamento ou necessidade de alinhar parcelas ao ciclo de caixa. Exige contato humano e registro da evidência. Prazo máximo sem comitê: 36 meses.
+
+5. DESCONTO DE ENCARGOS
+5.1. Até 10%: atraso acima de 30 dias, entrada mínima de 20% e ausência de contestação.
+5.2. Acima de 10% até 20%: somente com aprovação de especialista sênior.
+5.3. Acima de 20%: comitê de crédito e recuperação.
+5.4. Alteração ou desconto do principal: sempre comitê.
+
+6. IMPEDIMENTOS
+Não gerar oferta automatizada quando houver:
+- Contestação de dívida aberta.
+- Suspeita de fraude.
+- Recuperação judicial informada.
+- Cadastro do representante não validado.
+- Ausência de canal autorizado para formalização.
+- Divergência material entre saldo dos sistemas.
+- Regra documental conflitante sem resolução.
+
+7. SINAIS PARA RECOMENDAÇÃO
+7.1. Intenção explícita de pagamento e alta probabilidade calibrada favorecem abordagem simples e digital.
+7.2. Dificuldade temporária, faturamento ainda compatível e atraso intermediário favorecem parcelamento ou oferta customizada.
+7.3. Repetidas promessas quebradas, múltiplas renegociações ou ausência de evidência de capacidade exigem análise especializada.
+7.4. O score não pode substituir a verificação dos impedimentos.
+
+8. VALIDADE
+Oferta apresentada tem validade máxima fictícia de cinco dias corridos, salvo prazo menor informado pelo motor de ofertas. Alteração relevante no saldo ou cadastro exige recálculo.
+

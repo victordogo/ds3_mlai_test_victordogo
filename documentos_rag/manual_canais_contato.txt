@@ -1,0 +1,42 @@
+MANUAL DE CANAIS DE CONTATO — RECUPERAÇÃO PJ
+Código: MCC-PJ-011 | Versão: 4.0 | Vigência fictícia: 01/07/2026
+
+1. REGRAS GERAIS
+Utilizar somente dados de contato validados e canais autorizados. Confirmar a identidade do representante antes de expor saldo, contrato, proposta ou qualquer informação financeira. Registrar canal, data, resultado e próxima ação.
+
+2. JANELAS DE CONTATO
+2.1. Contato humano ativo: dias úteis, das 8h às 18h no fuso cadastrado do cliente.
+2.2. Mensagem digital não urgente: dias úteis, das 8h às 20h.
+2.3. Não realizar contato em feriados nacionais. Restrições locais devem ser parametrizadas quando disponíveis.
+2.4. Solicitação explícita de horário deve prevalecer dentro das janelas permitidas.
+
+3. WHATSAPP E SMS
+3.1. Exigem consentimento ou base operacional válida registrada.
+3.2. A primeira mensagem deve identificar a instituição de forma genérica e pedir confirmação do representante.
+3.3. Não informar valor da dívida, dias de atraso ou condição comercial antes da validação de identidade.
+3.4. Links devem usar domínio institucional fictício aprovado. Links encurtados são proibidos.
+
+4. E-MAIL
+4.1. Usar endereço corporativo validado.
+4.2. Assunto neutro, sem saldo ou menção explícita a inadimplência.
+4.3. Propostas anexas exigem proteção e expiração de acesso.
+4.4. Mensagem devolvida invalida o endereço até nova confirmação.
+
+5. TELEFONE
+5.1. Confirmar razão social e identificação do representante antes de detalhar a obrigação.
+5.2. Se terceiro atender, solicitar apenas retorno do representante, sem revelar o motivo financeiro.
+5.3. Após três tentativas sem sucesso em sete dias, pausar por 48 horas.
+5.4. Pedido para não ligar deve ser registrado e respeitado imediatamente.
+
+6. PORTAL OU APLICATIVO
+É o canal preferencial para exibir detalhes financeiros e formalizar aceite. O agente pode orientar o acesso, mas não pode simular confirmação de acordo.
+
+7. ESCOLHA DE CANAL
+7.1. Priorizar o canal preferencial quando autorizado e válido.
+7.2. Para probabilidade alta e atraso curto, usar canal digital de baixo custo.
+7.3. Para saldo alto, atraso superior a 60 dias ou situação complexa, priorizar contato humano especializado.
+7.4. Resultado negativo recorrente deve levar a ajuste de canal, horário ou estratégia, não a aumento indiscriminado de frequência.
+
+8. CONTINGÊNCIA
+Se um canal estiver indisponível, registrar o incidente e utilizar outro canal autorizado. Na ausência de canal seguro, não contatar e encaminhar para atualização cadastral ou análise humana.
+

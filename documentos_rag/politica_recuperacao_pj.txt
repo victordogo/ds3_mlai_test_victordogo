@@ -1,0 +1,43 @@
+POLÍTICA DE RECUPERAÇÃO DE CRÉDITO PJ
+Código: PRC-PJ-017 | Versão: 3.2 | Vigência fictícia: 01/07/2026
+Proprietário: Diretoria de Recuperação PJ
+
+1. OBJETIVO
+Estabelecer princípios e limites para priorização, contato, negociação e encaminhamento de clientes Pessoa Jurídica em atraso. Esta política é fictícia e válida apenas no case técnico.
+
+2. PRINCÍPIOS
+2.1. Toda recomendação deve considerar capacidade de pagamento, estágio do atraso, saldo devedor, histórico de relacionamento e evidências disponíveis.
+2.2. Score preditivo é insumo de priorização e não constitui autorização automática para desconto, renegociação, bloqueio ou medida jurídica.
+2.3. Decisões materiais exigem rastreabilidade: data, dados consultados, versão do modelo, regras aplicadas, documentos utilizados e responsável pela aprovação.
+2.4. É vedado inferir condição financeira a partir de atributo sensível ou proxy injustificado. Apenas dados necessários e autorizados podem ser utilizados.
+2.5. Na ausência de evidência, o sistema deve declarar a limitação e encaminhar o caso para análise humana.
+
+3. FAIXAS OPERACIONAIS DE ATRASO
+3.1. Faixa A — 1 a 15 dias: priorizar lembrete cordial e canais digitais consentidos. Não oferecer desconto de principal.
+3.2. Faixa B — 16 a 30 dias: contato digital ou telefônico, confirmação da causa do atraso e possibilidade de ajuste de vencimento, quando elegível.
+3.3. Faixa C — 31 a 60 dias: avaliar parcelamento padronizado e oferta customizada dentro das alçadas.
+3.4. Faixa D — 61 a 90 dias: priorização especializada obrigatória quando o saldo devedor for igual ou superior a R$ 250.000.
+3.5. Faixa E — acima de 90 dias: análise especializada obrigatória. Qualquer medida jurídica depende de fluxo próprio e aprovação humana; o agente não pode recomendá-la como decisão final.
+
+4. PRIORIZAÇÃO
+4.1. Alta probabilidade de regularização não significa, isoladamente, prioridade máxima. A fila deve considerar valor recuperável, capacidade operacional, urgência e custo do canal.
+4.2. Clientes com promessa de pagamento ainda válida devem ser acompanhados antes de nova abordagem, salvo pedido do próprio cliente ou risco operacional registrado.
+4.3. Três tentativas sem sucesso em sete dias exigem pausa mínima de 48 horas antes de nova tentativa ativa, salvo canal ou horário alternativo consentido.
+4.4. Contestação de dívida, suspeita de fraude, recuperação judicial informada, falecimento de sócio relevante ou vulnerabilidade registrada exige encaminhamento imediato para análise especializada.
+
+5. USO DE MODELOS E IA
+5.1. Modelos devem possuir documentação, validação independente proporcional ao risco, monitoramento de performance, calibração, estabilidade e vieses.
+5.2. Explicações apresentadas ao analista devem distinguir: dados observados, saída do modelo, regra aplicada e sugestão do agente.
+5.3. O agente deve citar a fonte documental e a data da informação estruturada utilizada.
+5.4. O agente não pode criar condição comercial, alterar cadastro, efetivar acordo, prometer aprovação nem expor raciocínio interno protegido.
+5.5. Respostas sem evidência suficiente devem adotar fallback seguro e solicitar revisão humana.
+
+6. ALÇADAS FICTÍCIAS
+6.1. Desconto de encargos até 10%: fluxo padronizado, desde que os critérios do documento de ofertas sejam atendidos.
+6.2. Desconto de encargos acima de 10% e até 20%: aprovação de especialista sênior.
+6.3. Desconto acima de 20%, alteração de principal ou prazo superior a 36 meses: comitê de crédito e recuperação.
+6.4. O score nunca amplia alçada.
+
+7. AUDITORIA E RETENÇÃO
+Registros de recomendações, evidências e aprovações devem ser mantidos por cinco anos no ambiente fictício do case. Acesso deve seguir o princípio do menor privilégio.
+
